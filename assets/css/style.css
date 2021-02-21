@@ -105,18 +105,18 @@ aside.benefits {
     background-color: #2589bd;
 }
 
-aside.benefit article.benefit {
+aside.benefits article.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-aside.benefit article.benefit h2 {
+aside.benefits article.benefit h2 {
     margin-bottom: 10px;
     text-align: center;
     font-size: 1.2rem;
 }
 
-aside.benefit article.benefit img {
+aside.benefits article.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
