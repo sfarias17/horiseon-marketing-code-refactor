@@ -84,6 +84,11 @@ section.content article.content img.float-left {
     margin-right:25px
 }
 
+section.content article.content img.float-right{
+    float:right;
+    margin-left: 25px;
+}
+
 section.content article.content h2 {
     margin-bottom:20px;
     font-size: 36px;
@@ -110,8 +115,6 @@ aside.benefit article.benefit h2 {
     text-align: center;
     font-size: 1.2rem;
 }
-
-
 
 aside.benefit article.benefit img {
     display: block;
